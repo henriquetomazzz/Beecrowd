@@ -11,7 +11,7 @@ A saída deve conter uma das mensagens conforme descrito acima.
 '''
 A, B =  list(map(int, input().split()))
 
-if B%A == 0: 
+if A%B == 0 or B%A == 0: 
   print("Sao Multiplos")
-elif B%A != 0: 
+else: 
   print("Nao sao Multiplos")  
