@@ -1,11 +1,13 @@
 '''
-*FEIJÃo*
+*FEIJÃO*
 Conta-se nos arredores de Montes Claros que, há muito tempo no mercado municipal, Sebastião 
 e seus companheiros de trabalho sempre jogam uma partida de adivinhação após a entrega 
 dos produtos agrícolas colhidos na semana que se passou. O jogo, que se chama 
 Adivinhe Onde o Feijão Está'', consiste em esconder um grão de feijão em um de quatro 
 copos opacos e, depois de embaralhá-los, o apostador deve adivinhar em qual copo o legume
 está.
+
+https://resources.beecrowd.com/gallery/images/contests/feijao.png
 
 Neste ano, devido ao grande sucesso cultural e histórico e à enorme quantidade de pessoas que praticam este jogo no mercado municipal, a prefeitura resolveu realizar um campeonato de 
 Adivinhe Onde o Feijão Está''. Entretanto, ela necessita de um programa para mostrar aos 
